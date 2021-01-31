@@ -3,9 +3,13 @@
 <span style="color:salmon;"> Phase 1</span>:
 
 **1**. Data selection:
+
     1.2 Selected datasets:
+    
        - goodreads
+       
        - Amazon 
+       
        - fdfdf
        
 **2**. Datasets preprocessing
