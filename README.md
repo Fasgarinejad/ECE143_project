@@ -1,13 +1,9 @@
 # ECE143_project
 
 <span style="color:salmon;"> Phase 1</span>:
-
 **1**. Data selection:
-
-    1.2 Selected datasets:
-    
+    1.2 Selected datasets:<br>
        - goodreads
-       
        - Amazon 
        
        - fdfdf  
