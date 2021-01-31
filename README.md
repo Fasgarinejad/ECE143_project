@@ -10,13 +10,12 @@
        
        - Amazon 
        
-       - fdfdf
-       
+       - fdfdf      
 **2**. Datasets preprocessing
 
-  > 2.1 Importing, changing column names to more readable names, omitting unwanted columns.
+   2.1 Importing, changing column names to more readable names, omitting unwanted columns.
   
-  > 2.2 Omitting or substituting null values in the datasets
+   2.2 Omitting or substituting null values in the datasets
    
 **2'**. Doing some querries on the indivial datasets (because the merged ones would have much lower number of rows) (**data analysis**)
      
