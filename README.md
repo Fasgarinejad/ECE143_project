@@ -33,9 +33,6 @@
 6. Creating a recommender system
 
 
-**Resouces we have used:**
-
-
 
 
 **Phase 3 (Creating an interactive app/surface/website)**
@@ -54,4 +51,5 @@
 
 
 
+**Resouces we have used:**
 
