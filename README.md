@@ -20,10 +20,10 @@
     - 4.1 merging the datasets together for deriving more information
     - 4.2 Doing queries on the aggregated data (*data analysis*)
         - 4.2.1 Exploring  the current Juperter notebooks in Kaggle and searching for interesting queries and analysis they have done. List them in the following:
-        - 
-        -
-        -
-        -
+            - Creating a bag of words from "genres" | "best authors like those who has sold the most" [a sample can be found here]: (https://www.kaggle.com/pierpaolo28/machine-learning-visualization-4)
+            -
+            -
+            -
      
      
      
@@ -31,6 +31,8 @@
 
 5. Finding a dataset which contain the pair (user, book) to know what books have been read and liked by a single user
 6. Creating a recommender system
+
+[One relevant notebook] (https://www.kaggle.com/aayushmishra1512/what-should-you-read-next-book-recommender)
 
 
 
