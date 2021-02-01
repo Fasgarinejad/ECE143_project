@@ -33,6 +33,7 @@
 6. Creating a recommender system
 
 [One relevant notebook] (https://www.kaggle.com/aayushmishra1512/what-should-you-read-next-book-recommender)
+[Another relevant notebook] (https://www.kaggle.com/snanilim/book-recommendation-engine)
 
 
 
