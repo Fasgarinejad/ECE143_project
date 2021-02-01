@@ -1,7 +1,7 @@
 # ECE143_project
 
 **Phase 1 (Data Analysis, Querrying)**:
-1. Data selection**:
+1. Data selection:
     - 1.2 Selected datasets:<br>
         - goodreads
         - Amazon 
@@ -12,6 +12,7 @@
 2. Datasets preprocessing
     - 2.1 Importing, changing column names to more readable names, omitting unwanted columns.
     - 2.2 Omitting or substituting null values in the datasets
+    
    
 3. Doing some querries on the indivial datasets (because the merged ones would have much lower number of rows) (*data analysis*)  
      
@@ -25,15 +26,20 @@
         -
      
      
+     
 **Phase 2 (Book recommendation)**
 
 5. Finding a dataset which contain the pair (user, book) to know what books have been read and liked by a single user
 6. Creating a recommender system
 
 
+
+
 **Phase 3 (Creating an interactive app/surface/website)**
 
 7. Create a well-written description about the project and add the interactive parts, plots, etc to the desired platform. Website, etc.
+
+
 
 
 **Phase 4 (Finalization and preparation for presentation)**
