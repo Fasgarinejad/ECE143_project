@@ -1,7 +1,7 @@
 # ECE143_project
 
 Phase 1 (Data Analysis, Querrying):
-- 1. Data selection:
+1. Data selection:
     - 1.2 Selected datasets:<br>
         - goodreads
         - Amazon 
