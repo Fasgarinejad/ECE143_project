@@ -44,9 +44,9 @@
 
 **Phase 4 (Finalization and preparation for presentation)**
 
-7. Observing the code and the whole project for potential fault detection and improvements
-8. Creating slides for presentation
-9. Recording a presentation (should be sumbitted at least one week before the deadline for getting feedbacks from Professor and TAs. )
+8. Observing the code and the whole project for potential fault detection and improvements
+9. Creating slides for presentation
+10. Recording a presentation (should be sumbitted at least one week before the deadline for getting feedbacks from Professor and TAs. )
 
 
 
