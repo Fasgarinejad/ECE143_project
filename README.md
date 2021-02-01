@@ -1,7 +1,7 @@
 # ECE143_project
 
-Phase 1 (Data Analysis, Querrying):
-1. Data selection:
+**Phase 1 (Data Analysis, Querrying)**:
+1. Data selection**:
     - 1.2 Selected datasets:<br>
         - goodreads
         - Amazon 
@@ -25,18 +25,18 @@ Phase 1 (Data Analysis, Querrying):
         -
      
      
-Phase 2 (Book recommendation)
+**Phase 2 (Book recommendation)**
 
 5. Finding a dataset which contain the pair (user, book) to know what books have been read and liked by a single user
 6. Creating a recommender system
 
 
-Phase 3 (Creating an interactive app/surface/website)
+**Phase 3 (Creating an interactive app/surface/website)**
 
 7. Create a well-written description about the project and add the interactive parts, plots, etc to the desired platform. Website, etc.
 
 
-Phase 4 (Finalization and preparation for presentation)
+**Phase 4 (Finalization and preparation for presentation)**
 
 7. Observing the code and the whole project for potential fault detection and improvements
 8. Creating slides for presentation
