@@ -40,8 +40,9 @@ https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttp
 [Another relevant notebook] (https://www.kaggle.com/snanilim/book-recommendation-engine)
 
 
-
+<br>
 Further improvement (Feb 21 - Feb 27)
+<br>
 **Phase 3 (Creating an interactive app/surface/website)** 
 
 7. Create a well-written description about the project and add the interactive parts, plots, etc to the desired platform. Website, etc.
