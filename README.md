@@ -1,6 +1,6 @@
 # ECE143_project
 
-**Phase 1 (Data Analysis, Querrying)**: (Feb 2 - Feb 13)
+**Phase 1 (Data Analysis, Querrying)**: (Feb 2 - Feb 13) <br>
 https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttps://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mk
 1. Data selection:
     - 1.2 Selected datasets:<br>
