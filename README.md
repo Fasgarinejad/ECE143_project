@@ -4,12 +4,12 @@
 1. Data selection:
     - 1.2 Selected datasets:<br>
         Sam, Yong and Fatemeh
-        - books_10k  (requires link and description)
+        - books_10k  (requires link and description)<br>
         - book_data.csv  (requires link and description)
         <br>
         Anirudh and Zhenwei<br>
-        - final_dataset.csv 
-        - goodreads_books.csv (requires link and description)
+        - final_dataset.csv <br>
+        - goodreads_books.csv (requires link and description)<br>
         <br>
        
 2. Datasets preprocessing
