@@ -10,9 +10,9 @@ https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttp
         <br>
         https://drive.google.com/drive/u/1/folders/1aamxmqGRubToqptHABoW-2wb090sUkcc
         <br>
-        Sam, Yong and Fatemeh
+        Sam, Yong and Fatemeh <br>
         - books_10k  (requires link and description)<br>
-        make a rating point distribution and make comparison with average rating
+        make a rating point distribution and make comparison with average rating<br>
         - book_data.csv  (requires link and description)
         <br>
        
