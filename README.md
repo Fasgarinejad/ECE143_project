@@ -24,7 +24,7 @@ https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttp
     - 4.1 merging the datasets together for deriving more information
     - 4.2 Doing queries on the aggregated data (*data analysis*)
         - 4.2.1 Exploring  the current Juperter notebooks in Kaggle and searching for interesting queries and analysis they have done. List them in the following:
-            - Creating a bag of words from "genres" | "best authors like those who has sold the most" [a sample can be found here]: (https://www.kaggle.com/pierpaolo28/machine-learning-visualization-4)
+            - Creating a bag of words from "genres" | "best authors like those who has sold the most" [a sample can be found here]: (https://www.kaggle.com/pierpaolo28/machine-learning-visualization-4) or here (https://medium.com/better-programming/create-custom-word-clouds-in-python-841563933e73)
             - 
             - 
             - 
@@ -46,7 +46,6 @@ Further improvement (Feb 21 - Feb 27)
 **Phase 3 (Creating an interactive app/surface/website)** 
 
 7. Create a well-written description about the project and add the interactive parts, plots, etc to the desired platform. Website, etc.
-
 
 
 
