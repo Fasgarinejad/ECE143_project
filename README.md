@@ -27,7 +27,7 @@ https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttp
     - 4.1 merging the datasets together for deriving more information
     - 4.2 Doing queries on the aggregated data (*data analysis*)
         - 4.2.1 Exploring  the current Juperter notebooks in Kaggle and searching for interesting queries and analysis they have done. List them in the following:
-            - for **book_data.csv** (Fatemeh)
+            - for **book_data.csv**
             - Creating a bag of words from "genres" | "best authors like those who has sold the most" [a sample can be found here]: (https://www.kaggle.com/pierpaolo28/machine-learning-visualization-4) or here (https://medium.com/better-programming/create-custom-word-clouds-in-python-841563933e73)
             - Is there any relationship with genres and the book_format? What percentage of Hardcover books are horror genre
             - Is there any relationship between number of pages and the rating? Are the books with pages more than n, more disliked in a specific genre?
@@ -37,7 +37,14 @@ https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttp
             - Distribution of ratings
             - Using the "authors" dataset, finding the birth place of authors (both generally and based on the genre)
 
-            - for ****
+            - for **book_10k.csv**
+            - Because we have the year of publication (might not be initial one) what is the genre trend in this dataset? (By merging with above dataset)
+            - What is the genre trend for a specific author?
+            - Rating distribution (A better one since we have all rating accounts (from 1 to 5)
+            - Are people leaning towards writing reviews for a specific genre? Or is the number of reviews correlated with the rating a book gets?Because we have the year of publication (might not be initial one) what is the genre trend in this dataset? (By merging with above dataset)
+            - What is the genre trend for a specific author?
+            - Rating distribution (A better one since we have all rating accounts (from 1 to 5)
+            - Are people leaning towards writing reviews for a specific genre? Or is the number of reviews correlated with the rating a book gets?
      
      
      
