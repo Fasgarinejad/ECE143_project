@@ -27,10 +27,17 @@ https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttp
     - 4.1 merging the datasets together for deriving more information
     - 4.2 Doing queries on the aggregated data (*data analysis*)
         - 4.2.1 Exploring  the current Juperter notebooks in Kaggle and searching for interesting queries and analysis they have done. List them in the following:
+            - for **book_data.csv** (Fatemeh)
             - Creating a bag of words from "genres" | "best authors like those who has sold the most" [a sample can be found here]: (https://www.kaggle.com/pierpaolo28/machine-learning-visualization-4) or here (https://medium.com/better-programming/create-custom-word-clouds-in-python-841563933e73)
-            - 
-            - 
-            - 
+            - Is there any relationship with genres and the book_format? What percentage of Hardcover books are horror genre
+            - Is there any relationship between number of pages and the rating? Are the books with pages more than n, more disliked in a specific genre?
+            - Can we identify a book’s genre from its description? (Converting description to a bag of words)
+            - Are the books with more than one author more disliked?
+            - What are the most repeated words in a specific genre’s title? Like “kill” in horror
+            - Distribution of ratings
+            - Using the "authors" dataset, finding the birth place of authors (both generally and based on the genre)
+
+            - for ****
      
      
      
