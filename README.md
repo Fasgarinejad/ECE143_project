@@ -41,11 +41,7 @@ https://drive.google.com/drive/u/1/folders/1dVXkOI0VmQZNI1CA_juDF2QkJorRg-Mkhttp
             - Because we have the year of publication (might not be initial one) what is the genre trend in this dataset? (By merging with above dataset)
             - What is the genre trend for a specific author?
             - Rating distribution (A better one since we have all rating accounts (from 1 to 5)
-            - Are people leaning towards writing reviews for a specific genre? Or is the number of reviews correlated with the rating a book gets?Because we have the year of publication (might not be initial one) what is the genre trend in this dataset? (By merging with above dataset)
-            - What is the genre trend for a specific author?
-            - Rating distribution (A better one since we have all rating accounts (from 1 to 5)
             - Are people leaning towards writing reviews for a specific genre? Or is the number of reviews correlated with the rating a book gets?
-     
      
      
 **Phase 2 (Book recommendation)** (Feb 14- Feb 20) 
