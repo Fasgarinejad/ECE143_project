@@ -5,9 +5,7 @@
 
 - **Analysis**
     - **Codes**
-        - **Authors**
-        - **Genres**
-        - **Books Features**
+        - **Authors** | **Genres** | **Books Features**
     - **Datasets**
     - **images**
     
