@@ -25,15 +25,13 @@
 2. Pandas #for importing csv file and working with dataframes
 3. Numpy #for sum mathematical stuff in the dataframes
 4. matplotlib #for plotting
-5. csv
-6. seaborn
-7. statistics
-8. collections
-9. statistics
-10. nltk  #for string analysis (stopwords, punctuations, etc.)
-11. random #for generating random numbers for random colors 
-12. string #for working with string data
-13. time For calculating time spent for prediction
+5. csv #for opening datafiles and reading them into dataframes
+6. seaborn #to add more plot features and layout
+7. collections #for OrderedDict, sort dict
+8. nltk  #for string analysis (stopwords, punctuations, etc.)
+9. random #for generating random numbers for random colors 
+10. string #for working with string data
+11. time For calculating time spent for prediction
 
 
 
