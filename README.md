@@ -21,7 +21,7 @@
 
 
 **All Third-party modules we have used**
-1. Basemap
+1. from sklearn.ensemble import RandomForestClassifier #Random Forest
 2. Pandas #for importing csv file and working with dataframes
 3. Numpy #for sum mathematical stuff in the dataframes
 4. matplotlib #for plotting
@@ -31,27 +31,23 @@
 8. nltk  #for string analysis (stopwords, punctuations, etc.)
 9. random #for generating random numbers for random colors 
 10. string #for working with string data
-11. time For calculating time spent for prediction
-
-
-
-
-import re  
-import collections
-from collections import Counter
-from wordcloud import WordCloud
-from wordcloud import WordCloud, ImageColorGenerator
-from PIL import Image
-import matplotlib.pyplot as plt
-import seaborn as sns 
-from sklearn.preprocessing import StandardScaler
-from sklearn.pipeline import make_pipeline
-from sklearn.svm import SVC
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import ShuffleSplit
-import sklearn
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.datasets import make_classification
+11. time #For calculating time spent for prediction
+12. basemap
+13. import re
+14. import collections
+15. from collections import Counter
+16. from wordcloud import WordCloud
+17. from wordcloud import WordCloud, ImageColorGenerator
+18. from PIL import Image
+19. import seaborn as sns 
+20. from sklearn.preprocessing import StandardScaler
+21. from sklearn.pipeline import make_pipeline
+22. from sklearn.svm import SVC
+23. from sklearn.model_selection import train_test_split
+24. from sklearn.metrics import accuracy_score
+25. from sklearn.model_selection import ShuffleSplit
+26. import sklearn
+27. from sklearn.ensemble import RandomForestClassifier
+28. from sklearn.datasets import make_classification
 
 
