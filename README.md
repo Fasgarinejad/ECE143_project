@@ -23,15 +23,15 @@
 
 
 **All Third-party modules we have used**
--**    1. Basemap
--**    2. Pandas
--**    3. Numpy
--**    4. matplotlib
--**    5. csv
--**    6. seaborn
--**    7. statistics
--**    8. collections
--**    9. statistics
+1. Basemap
+2. Pandas
+3. Numpy
+4. matplotlib
+5. csv
+6. seaborn
+7. statistics
+8. collections
+9. statistics
 
 
 
