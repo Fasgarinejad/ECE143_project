@@ -27,6 +27,15 @@ git clone https://github.com/Fasgarinejad/ECE143_project
 
 
 **All Third-party modules we have used**
+
+Main ones:
+
+- matplotlib
+- pandas
+- sklearn
+- numpy
+- nltk
+
 1. from sklearn.ensemble import RandomForestClassifier #Random Forest
 2. Pandas #for importing csv file and working with dataframes
 3. Numpy #for sum mathematical stuff in the dataframes
