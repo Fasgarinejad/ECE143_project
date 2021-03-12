@@ -8,7 +8,6 @@
     - **images**
     
 - **PDF of Slides**
-- **images**
 - **Jupyter Notebook**
 - **Website**
     - **Website**
