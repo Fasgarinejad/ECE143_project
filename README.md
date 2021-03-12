@@ -20,6 +20,11 @@
 **Running our code**
 We have uploaded the Jupyter notebook containing all genres in the main page and also the `.py` files for each plot/querry in the Analysis folder 
 
+Clone our repositoru 
+```
+git clone https://github.com/Fasgarinejad/ECE143_project
+```
+
 
 **All Third-party modules we have used**
 1. from sklearn.ensemble import RandomForestClassifier #Random Forest
