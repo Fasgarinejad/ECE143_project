@@ -21,7 +21,7 @@
 
 We have uploaded the Jupyter notebook containing all genres in the main page and also the `.py` files for each plot/querry in the Analysis folder 
 
-Clone our repositoru 
+Clone our repository 
 ```
 git clone https://github.com/Fasgarinejad/ECE143_project
 ```
