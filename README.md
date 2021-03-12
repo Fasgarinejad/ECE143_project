@@ -18,6 +18,7 @@
 
 
 **Running our code**
+We have uploaded the Jupyter notebook containing all genres in the main page and also the `.py` files for each plot/querry in the Analysis folder 
 
 
 **All Third-party modules we have used**
