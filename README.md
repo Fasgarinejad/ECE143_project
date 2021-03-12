@@ -19,7 +19,7 @@
 - **Timeline**
 
 
-Running our code
+**Running our code**
 
 
-All Third-party modules we have used
+**All Third-party modules we have used**
