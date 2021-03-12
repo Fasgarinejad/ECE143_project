@@ -29,7 +29,6 @@
 6. seaborn
 7. statistics
 8. collections
-9. statistics
 
 
 
