@@ -5,6 +5,10 @@
 
 - **Analysis**
     - **Codes**
+        - **Authors**
+        - **Genres**
+        - **Books Features**
+    - **Datasets**
     - **images**
     
 - **PDF of Slides**
