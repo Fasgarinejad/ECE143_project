@@ -43,6 +43,7 @@ Main ones:
 - sklearn
 - numpy
 - nltk
+- wordcloud #!conda install -c conda-forge wordcloud=1.6.0 
 
 1. from sklearn.ensemble import RandomForestClassifier #Random Forest
 2. Pandas #for importing csv file and working with dataframes
