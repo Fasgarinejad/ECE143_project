@@ -16,7 +16,7 @@
     - **Images**
 - **Timeline**
 - **Method Test Cases Assignment**
-- the file is named "Group-2_Assignment-1.ipynb"
+    -  the file is named "Group-2_Assignment-1.ipynb"
 
 
 **Running our code**
