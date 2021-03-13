@@ -30,6 +30,9 @@ Clone our repository
 git clone https://github.com/Fasgarinejad/ECE143_project
 ```
 
+```
+Python 3.8 
+```
 
 **All Third-party modules we have used**
 
