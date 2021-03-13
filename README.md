@@ -10,6 +10,7 @@
     - **images**
     
 - **PDF of Slides**
+    -  titled Group2_ppt_final.pdf
 - **Jupyter Notebook**
 - **Website**
     - **Website**
