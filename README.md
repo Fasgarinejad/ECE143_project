@@ -8,7 +8,7 @@
         - **Authors** | **Genres** | **Books Features**
     - **Datasets**
     - **images**
-     - plots we have generated from our data analysis
+         - plots we have generated from our data analysis
     
 - **PDF of Slides**
     -  titled Group2_ppt_final.pdf
