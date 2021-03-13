@@ -12,7 +12,7 @@
     
 - **PDF of Slides**
     -  titled Group2_ppt_final.pdf
-- **Jupyter Notebook**
+- **Jupyter Notebook** (Code.ipynb)
 - **Website**
     - **Website**
     - **Images**
