@@ -99,11 +99,11 @@ Wordcloud
 15. from wordcloud import WordCloud
 16. from wordcloud import WordCloud, ImageColorGenerator
 
+
 Genre Classification and language processing
 
 17. nltk  #for string analysis (stopwords, punctuations, etc.)
 18. string #for working with string data
-
 19 . import sklearn
 20. from sklearn.preprocessing import StandardScaler
 21. from sklearn.ensemble import RandomForestClassifier #Random Forest
