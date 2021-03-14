@@ -121,4 +121,4 @@ Some of our plots
 Authors' birthplace from 16th to 21th <br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/authors_nationality_over_years.gif" width="500">
 
 
-Count of Authors for different countries 1800-1980<br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/countries_gif.gif" width="500">
+Count of Authors for different countries 1800-1980<br><br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/countries_gif.gif" width="500">
