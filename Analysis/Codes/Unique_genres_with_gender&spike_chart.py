@@ -5,7 +5,16 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
+'''
+Plot Male and Female authors For all genres
+And spike chart for 20th century genres
+Read from good_reads_final.csv
+'''
+
 df = pd.read_csv('good_reads_final.csv')
+
+assert isinstance(df,pd.DataFrame)
+
 df.info()
 
 unique_genres = []
