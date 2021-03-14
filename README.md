@@ -116,7 +116,10 @@ Genre Classification and language processing
 28. from sklearn.datasets import make_classification
 29. from sklearn.ensemble import RandomForestClassifier #Random Forest
 
-Some of our plots
+**Some of our plots**
+
+Title Classification accurracy using RF, SVM and KNN<br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/prediction.png" width="500">
+
 
 Authors' birthplace from 16th to 21th <br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/authors_nationality_over_years.gif" width="500">
 
