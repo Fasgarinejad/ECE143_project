@@ -9,8 +9,15 @@ import seaborn as sns
 from IPython.display import HTML
 import collections
 
+'''
+Plot how many authors born in each country
+read file from final_dataset.csv
+'''
 
 df = pd.read_csv('final_dataset.csv',error_bad_lines = False) 
+
+assert isinstance(df,pd.DataFrame)
+
 df_map = df.drop(columns=['authorid','about','website','twitter','original_hometown'])
 #Drop the unwanted columns in the dataset
 df = df.drop(columns=['authorid','about','website','twitter','original_hometown','latitude','longitude'])
