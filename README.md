@@ -117,3 +117,4 @@ Genre Classification and language processing
 29. from sklearn.ensemble import RandomForestClassifier #Random Forest
 
 
+![caption](https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/authors_nationality_over_years.gif)
