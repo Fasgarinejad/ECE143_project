@@ -26,14 +26,14 @@
 We have uploaded the Jupyter notebook containing all genres in the main page and also the `.py` files for each plot/querry in the Analysis folder 
 
 STEPS TO RUN OUR NOTEBOOK:
-- (1) Clone our repository 
+- (1) Clone/Download our repository 
 ```
 git clone https://github.com/Fasgarinejad/ECE143_project
 ```
-- (2) After the download has finished, unzip the file and follow filepath: Analysis > Datasets
+- (2) After the download has finished, unzip the file 'ECE143_project-main' and expand it to follow filepath: Analysis > Datasets
 - (3) Download all the files in the Dataset folder ('good_reads_final.csv' and 'books.csv' are already downloaded, but you need to unzip 'book_data.csv.zip' and click the README.md to get a link to download 'final_dataset.csv')
 - (4) create a new folder and move all four .csv files into it.
-- (5) drag the 'Code.ipynb' Jupyter notebook into the same folder you have created
+- (5) drag the 'Code.ipynb' Jupyter notebook (found in main file directory) into the same new folder you have created in the last step
 - (6) open Terminal, and type in the command 'jupyter notebook'. a window should pop up and follow the file path to get to where your 'Code.ipynb' and click to open it
 - (7) make sure to pip or conda install the 3rd party modules we have listed below 
 - (8) Run our Jupyter Notebook
