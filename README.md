@@ -119,7 +119,9 @@ Genre Classification and language processing
 **Some of our plots**
 
 Title Classification accurracy using RF, SVM and KNN<br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/prediction.png" width="500">
+
 Methodology:
+
 1) Stored titles of books in `Sports`, `Classics` and `Romance` genres
 1) Picked 150 most frequent words in the titles of each genre
 2) Aggregated all the 150*3 most frequent words, some were redundant
@@ -127,6 +129,7 @@ Methodology:
 4) Created word frequency vectors for each title
 
 Model creation
+
 5) input of the model: independent variables: word vectors | dependent variable: genre (`Sports` | `Classics` | `Romance`) one hot encoded, So (0 | 1 | 2)
 6) Splitted the data to training and test set with a ratio of 30 percent test 
 7) Trained SVM, RF and KNN on the training set 10 times (iteration on train-test split) and used the predicted model on the test set
