@@ -87,6 +87,7 @@ Dataframe import, filtering and analysis, math, etc.
 9. from collections import Counter
 
 Plotting 
+
 10. matplotlib #for plotting
 11. from PIL import Image
 12. import seaborn as sns 
@@ -94,10 +95,12 @@ Plotting
 14. basemap
 
 Wordcloud
+
 15. from wordcloud import WordCloud
 16. from wordcloud import WordCloud, ImageColorGenerator
 
 Genre Classification and language processing
+
 17. nltk  #for string analysis (stopwords, punctuations, etc.)
 18. string #for working with string data
 
