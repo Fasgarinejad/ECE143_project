@@ -14,6 +14,13 @@ etc.) as well as books (if any specific features - genre diversity, book format,
 etc. - correlated with book rating. We also looked into how the most frequent
 words in a books' title can help predict its' genre.
 
+In this repository we have included all the relevant parts of our project: 
+the datasets, a Jupyter notebook that can be run to obtain our plots, `.py` files,
+our final powerpoint that provides a nice visual overview of our findings, etc.
+Please see below for more information about this repository organization and
+how to properly run our Notebook.
+
+
 **Structure of files**
 
 
