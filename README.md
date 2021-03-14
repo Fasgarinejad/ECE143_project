@@ -75,33 +75,42 @@ Main ones:
 - nltk
 - wordcloud #!conda install -c conda-forge wordcloud=1.6.0 
 
-1. from sklearn.ensemble import RandomForestClassifier #Random Forest
-2. Pandas #for importing csv file and working with dataframes
-3. Numpy #for sum mathematical stuff in the dataframes
-4. matplotlib #for plotting
-5. csv #for opening datafiles and reading them into dataframes
-6. seaborn #to add more plot features and layout
-7. collections #for OrderedDict, sort dict
-8. nltk  #for string analysis (stopwords, punctuations, etc.)
-9. random #for generating random numbers for random colors 
-10. string #for working with string data
-11. time #For calculating time spent for prediction
-12. basemap
-13. import re
-14. import collections
-15. from collections import Counter
-16. from wordcloud import WordCloud
-17. from wordcloud import WordCloud, ImageColorGenerator
-18. from PIL import Image
-19. import seaborn as sns 
+Dataframe import, filtering and analysis, math, etc.
+1. Pandas #for importing csv file and working with dataframes
+2. Numpy #for sum mathematical stuff in the dataframes
+3. csv #for opening datafiles and reading them into dataframes
+4. collections #for OrderedDict, sort dict
+5. random #for generating random numbers for random colors 
+6. time #For calculating time spent for prediction
+7. import re
+8. import collections
+9. from collections import Counter
+
+Plotting 
+10. matplotlib #for plotting
+11. from PIL import Image
+12. import seaborn as sns 
+13. seaborn #to add more plot features and layout
+14. basemap
+
+Wordcloud
+15. from wordcloud import WordCloud
+16. from wordcloud import WordCloud, ImageColorGenerator
+
+Genre Classification and language processing
+17. nltk  #for string analysis (stopwords, punctuations, etc.)
+18. string #for working with string data
+
+19 . import sklearn
 20. from sklearn.preprocessing import StandardScaler
-21. from sklearn.pipeline import make_pipeline
-22. from sklearn.svm import SVC
-23. from sklearn.model_selection import train_test_split
-24. from sklearn.metrics import accuracy_score
-25. from sklearn.model_selection import ShuffleSplit
-26. import sklearn
+21. from sklearn.ensemble import RandomForestClassifier #Random Forest
+22. from sklearn.pipeline import make_pipeline
+23. from sklearn.svm import SVC
+24. from sklearn.model_selection import train_test_split
+25. from sklearn.metrics import accuracy_score
+26. from sklearn.model_selection import ShuffleSplit
 27. from sklearn.ensemble import RandomForestClassifier
 28. from sklearn.datasets import make_classification
+29. from sklearn.ensemble import RandomForestClassifier #Random Forest
 
 
