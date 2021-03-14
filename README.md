@@ -1,4 +1,4 @@
-# ECE143_project (Group 2): Goodreads Authors and Books Analysis
+# ECE143_project (Group 2): Goodreads++ Authors and Books Analysis
 *Team Members: Anirudh, Fatemeh, Samantha, Zhenwei*
 
 **Background**
