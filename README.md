@@ -116,4 +116,9 @@ Genre Classification and language processing
 28. from sklearn.datasets import make_classification
 29. from sklearn.ensemble import RandomForestClassifier #Random Forest
 
-Authors' birthplace from 16th to 21th <br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/authors_nationality_over_years.gif" width="300">
+Some of our plots
+
+Authors' birthplace from 16th to 21th <br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/authors_nationality_over_years.gif" width="500">
+
+
+Count of Authors for different countries 1800-1980<br><img src="https://github.com/Fasgarinejad/ECE143_project/blob/main/Analysis/images/countries_gif.gif" width="500">
