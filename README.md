@@ -1,4 +1,18 @@
 # ECE143_project (Group 2): Goodreads Authors and Books Analysis
+*Team Members: Anirudh, Fatemeh, Samantha, Zhenwei*
+
+**Background**
+Since the COVID-19 pandemic has caused us to isolate and quarantine to promote 
+overall wellbeing and safety, books have become an extremely important and 
+meaningful pastime for many. We wanted to analyze trends about different
+authors and books in the hopes of creating tools that may help all book-lovers
+identify their next favorite read.
+
+We analyzed multiple datasets from Kaggle and other sources to learn more about
+Authors (where they are mostly located, which specific ones are the most popular,
+etc.) as well as books (if any specific features - genre diversity, book format,
+etc. - correlated with book rating. We also looked into how the most frequent
+words in a books' title can help predict its' genre.
 
 **Structure of files**
 
