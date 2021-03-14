@@ -13,7 +13,15 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
 
+'''
+Plot the born places of each authors on the map using longitude and latitude
+Read from final_dataset.csv
+'''
+
 df = pd.read_csv('final_dataset.csv',error_bad_lines = False) 
+
+assert isinstance(df,pd.DataFrame)
+
 df_map = df.drop(columns=['authorid','about','website','twitter','original_hometown'])
 df_map = df_map.drop(columns=['workcount','fan_count','gender','image_url','born','died',
                               'influence','average_rate','rating_count',
