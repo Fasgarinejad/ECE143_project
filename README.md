@@ -1,4 +1,4 @@
-# ECE143_project (Group 2)
+# ECE143_project (Group 2): Goodreads Authors and Books Analysis
 
 **Structure of files**
 
