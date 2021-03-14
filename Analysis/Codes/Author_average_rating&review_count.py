@@ -5,7 +5,16 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
+'''
+Plot Authors' average rating
+Plot Authors' rate count and review count
+read from good_reads_final
+'''
+
 df = pd.read_csv('good_reads_final.csv')
+
+assert isinstance(df,pd.DataFrame)
+
 df.info()
 
 df_count_author = df.groupby(df['author_id']).agg({'author_id':'count'})
